@@ -10,9 +10,9 @@ This repository contains scripts related to the analysis and visualization of po
 - **`.RData`**: R workspace data file containing variables and objects for analysis.
 - **`.Rhistory`**: R history file keeping track of executed commands.
 - **Images**: 
-  - `correlation_doses.png`: Visualizes the correlation between vaccination doses in different sources, as there is no access to vaccination data month-by-month.
+  - `correlation_doses.png`: Visualizes the correlation between vaccination doses in different sources, as there is no data on vaccination coverage month-by-month.
   - `evol_cob_accum_votes.png`: Evolution of cumulative votes related to vaccination coverage.
-  - `evol_cob_month_votes.png`: Monthly evolution of votes and vaccination coverag.
+  - `evol_cob_month_votes.png`: Monthly evolution of votes and vaccination coverage.
   - `evolution_cob_accum.png`: Evolution of vaccination coverage over time.
   - `evolution_cob_month.png`: Monthly evolution of vaccination coverage.
   - `evolution_doses.png`: Evolution of vaccination doses over time.
